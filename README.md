@@ -5,3 +5,8 @@ The goal of this project is to develop an application, based on metrics, about c
 The following picture depicts the GUI of our application
 
 ![](https://github.com/mitrogiannischrysanthos/plot-visualizer/blob/master/GUIOfProject.png)
+
+As we can see, we can choose between three plots.
++ BarPlot
++ LinePlot
++ ScatterPlot
