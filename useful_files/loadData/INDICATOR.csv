@@ -1,0 +1,11 @@
+Indicator Code,Indicator Name
+NV.MNF.CHEM.ZS.UN,Chemicals (% of value added in manufacturing)
+NE.DAB.TOTL.ZS,Gross national expenditure (% of GDP)
+NE.CON.GOVT.KD.ZG,General government final consumption expenditure (annual % growth)
+NE.EXP.GNFS.KD.ZG,Exports of goods and services (annual % growth)
+NV.MNF.TXTL.ZS.UN,Textiles and clothing (% of value added in manufacturing)
+SP.POP.TOTL.MA.ZS,Population male (% of total population)
+TM.VAL.AGRI.ZS.UN,Agricultural raw materials imports (% of merchandise imports)
+TM.VAL.FUEL.ZS.UN,Fuel imports (% of merchandise imports)
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total)
+EN.CO2.ETOT.ZS,CO2 emissions from electricity and heat production total (% of total fuel combustion)
