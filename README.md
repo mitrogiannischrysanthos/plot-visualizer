@@ -16,3 +16,4 @@ As we can see, we can choose between three plots:
 # Authors
 + mitrogiannischrysanthos (https://github.com/mitrogiannischrysanthos)
 + SotirisVinis (https://github.com/SotirisVinis)
++ GiorgosAvdikos (https://github.com/GiorgosAvdikos)
